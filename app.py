@@ -32,7 +32,10 @@ def config():
 
 def db_request(method, payload=None):
     url,key,_=config()
-    headers={'apikey':key,'Authorization':f'Bearer {key}','Content-Type':'application/json'}
+    headers={
+    'apikey': key,
+    'Content-Type': 'application/json'
+    }
     if method=='GET':
         r=requests.get(url+'/rest/v1/ley_estado',params={'id':'eq.1','select':'*'},headers=headers,timeout=12)
     else:
