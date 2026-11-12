@@ -1,0 +1,72 @@
+[
+  {
+    "number": 1,
+    "title": "RESPONSABILIDAD POR ERRORES DE COMERCIALIZACIÓN",
+    "options": {
+      "A": "Responsabilidad de la aseguradora. La aseguradora responderá frente a los asegurados por la información entregada mediante sus sistemas de IA, sin perjuicio de su derecho a repetir contra terceros responsables.",
+      "B": "Responsabilidad del desarrollador. El proveedor tecnológico responderá por los perjuicios que deriven de defectos de diseño, programación o funcionamiento imputables a su actuación.",
+      "C": "Responsabilidad compartida. La aseguradora y el desarrollador responderán según sus obligaciones y contribución causal al daño.",
+      "D": "Régimen general. No se establecerá un régimen especial y se aplicarán las normas generales de responsabilidad civil y contractual."
+    }
+  },
+  {
+    "number": 2,
+    "title": "DISCRIMINACIÓN ALGORÍTMICA EN LAS PRIMAS",
+    "options": {
+      "A": "Prohibición de variables sensibles. Se prohibirá utilizar variables personales sensibles y sus sustitutos indirectos para fijar primas, salvo excepciones legales expresas.",
+      "B": "Libertad actuarial. Las aseguradoras podrán utilizar variables predictivas cuando exista una justificación actuarial verificable y no discriminatoria.",
+      "C": "Auditoría obligatoria. Se permitirá la tarificación algorítmica bajo auditorías periódicas de sesgos, pertinencia y proporcionalidad.",
+      "D": "Consentimiento informado. Podrán utilizarse criterios de personalización cuando el asegurado haya sido informado y exista una base jurídica válida para tratar los datos."
+    }
+  },
+  {
+    "number": 3,
+    "title": "SEGURO DE RESPONSABILIDAD POR DAÑOS DE IA",
+    "options": {
+      "A": "Seguro obligatorio para alto riesgo. Los operadores de sistemas de IA de alto riesgo deberán mantener un seguro de responsabilidad civil con límites adecuados.",
+      "B": "Cobertura voluntaria especializada. La contratación será voluntaria y se fomentarán pólizas específicas para responsabilidad por IA.",
+      "C": "Fondo de compensación. Se establecerá un mecanismo colectivo de compensación para daños graves cuando no exista cobertura suficiente.",
+      "D": "Sin régimen asegurador especial. Los riesgos de IA serán asegurables conforme a las reglas generales y la libertad de contratación."
+    }
+  },
+  {
+    "number": 4,
+    "title": "DE LA DECLARACIÓN DEL RIESGO REALIZADA MEDIANTE IA",
+    "options": {
+      "A": "La aseguradora no podrá invocar reticencia respecto de información que el asegurado haya entregado efectivamente a su sistema de IA.",
+      "B": "El asegurado será responsable de verificar la exactitud de la declaración final antes de contratar.",
+      "C": "La responsabilidad se determinará según quién haya causado la omisión y si existió posibilidad efectiva de corregirla.",
+      "D": "Se mantendrán las reglas generales sobre declaración del riesgo, sin introducir disposiciones especiales para la IA."
+    }
+  },
+  {
+    "number": 5,
+    "title": "DE LA PRUEBA GENERADA MEDIANTE INTELIGENCIA ARTIFICIAL",
+    "options": {
+      "A": "Los informes generados por IA tendrán valor probatorio equivalente al de un informe pericial humano cuando cumplan requisitos técnicos de certificación.",
+      "B": "Los informes de IA solo podrán utilizarse como antecedentes complementarios y nunca sustituirán una pericia humana.",
+      "C": "Su admisibilidad y valoración dependerán de su trazabilidad, fiabilidad, posibilidad de contradicción y validación técnica.",
+      "D": "No se establecerán reglas probatorias especiales y su valor se determinará conforme a las normas procesales vigentes."
+    }
+  },
+  {
+    "number": 6,
+    "title": "DE LA MODIFICACIÓN UNILATERAL DEL RIESGO MEDIANTE IA",
+    "options": {
+      "A": "Se prohibirá toda modificación automatizada de primas durante la vigencia contractual sin consentimiento expreso del asegurado.",
+      "B": "Se permitirá modificar las primas cuando exista una cláusula contractual clara que establezca los parámetros y límites del reajuste.",
+      "C": "Se permitirá la modificación automatizada, pero el asegurado tendrá derecho a impugnarla y poner término al contrato sin penalización.",
+      "D": "No se establecerán reglas especiales, aplicándose las disposiciones generales sobre modificación contractual y agravación del riesgo."
+    }
+  },
+  {
+    "number": 7,
+    "title": "DE LA RESPONSABILIDAD POR RECOMENDACIONES DE IA AL ASEGURADO",
+    "options": {
+      "A": "Las plataformas de IA que formulen recomendaciones personalizadas de seguros estarán sujetas a deberes equivalentes a los exigidos a los intermediarios, en lo pertinente.",
+      "B": "Las plataformas responderán únicamente cuando entreguen información falsa o manifiestamente incorrecta.",
+      "C": "Las recomendaciones automatizadas deberán identificar expresamente sus limitaciones y advertir que no sustituyen una asesoría profesional.",
+      "D": "Las plataformas de comparación podrán operar libremente, sin obligaciones sectoriales especiales, mientras no realicen actividades legalmente reservadas."
+    }
+  }
+]
